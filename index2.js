@@ -86,7 +86,7 @@ const age = 25;
 const message = "Hi Alice";
 
 console.log('안녕, 내이름은 ${name}이고, 나이는 ${age}이야.');
-console.log('${message}');
+console.log(`${message}`);
 
 // 9.	배열을 선언하고 요소에 접근하여 출력하세요.
 let fruits = ["Apple", "Banana", "Cherry"];
